@@ -1,1 +1,1 @@
-Just a repository for sharing resources with collaborators
+Just a repo for sharing resources with collaborators
